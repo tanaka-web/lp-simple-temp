@@ -1,0 +1,8 @@
+# Ignore frontend files
+/public
+/node_modules
+/yarn-error.log*
+/.yarn-integrity
+
+# Ignore editor
+.idea
