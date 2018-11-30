@@ -1,5 +1,6 @@
 # Ignore frontend files
-/public
+/public/*
+!/public/index.html
 /node_modules
 /yarn-error.log*
 /.yarn-integrity
